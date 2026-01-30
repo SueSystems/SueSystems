@@ -1,6 +1,6 @@
 # Hi, I'm Sewe Susan 👋
 
-### SAP Software Engineer | Python & Web Architecture Specialist
+###Software Engineer #SueSystems | Python & Web Tech | 3+ years of Clean Core development backed by a decade of Leadership & Governance.
 *Bridging the gap between enterprise stability and modern web innovation.*
 
 ---
