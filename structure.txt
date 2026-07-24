@@ -1,0 +1,47 @@
+SueSystems Website Development
+Adviced to build
+Studio Brand Website due to ease of Scalability, personal credibility and launching ventures. It requires balancing founder visibility with the brand identity.
+How to Execute This on The Website
+1. Master the Tone ("I" vs. "We")
+•	On product & engineering pages: Identity is around the brand.
+"SueSystems builds focused web applications and modular software solutions."
+•	On the About page: Bring in the human element.
+"Founded by Susan Omondi, SueSystems is a software development studio dedicated to engineering practical applications and contributing to open-source systems."
+2. Website Structure
+•	Homepage: Focus on what SueSystems builds, featured projects, and core development capabilities.
+•	Projects / Products: Showcase applications, client work, and active builds under the brand umbrella.
+•	About / Founder Section: Tell your story, your engineering philosophy, and the vision for growing SueSystems into a broader institution.
+•	Contact: Use a clear professional address (e.g., contact@suesystems.com or hello@suesystems.com).
+
+A structured blueprint for the SueSystems homepage to balance founder credibility with institutional vision.
+Homepage Navigation Structure
+Plaintext
+[ Logo: SueSystems ]   Projects   |   Open Source   |   About   |   [ Contact ]
+Section-by-Section Content Map
+1. Hero Section (Above the Fold)
+•	Heading: Engineering practical software solutions and scalable web systems.
+•	Sub-heading: SueSystems is an independent development studio focused on building modular web applications, client solutions, and open-source software.
+•	Call to Action (CTA) Buttons: View Projects | Get in Touch
+2. Core Focus Areas (What SueSystems Does)
+Keep this focused on outcomes and capabilities:
+•	Custom Web Applications: Modern, responsive web apps designed with clean architecture and maintainability in mind.
+•	Enterprise & Modular Tools: Developing specialized software modules (e.g., procurement and systems management).
+•	Open Source & Ecosystem: Contributing to open-source software and community-driven tools.
+3. Featured Projects Showcase
+Highlight the key projects under the SueSystems umbrella:
+•	Project Spotlight (e.g., TenderQApp): A modular tender response and management tool for enterprise platforms. (Include current stage, e.g., In Development / Wireframing)
+•	Client Systems: Web solutions built for business operations, highlighting clean design and reliable functionality.
+4. Founder & Vision Section (The "About" Preview)
+This bridges the gap between solo founder and future institution:
+Led by Engineering Purpose
+SueSystems was founded by Susan Omondi, a Systems Engineer driven by structured design, open collaboration, and building high-impact software. What starts as a founder-led studio is built on systems meant to scale into a broader software institution.
+Read More About the Vision →
+5. Call to Action / Footer
+•	Primary Headline: Have a system to build or a project to discuss?
+•	CTA Button: Reach Out (Links to a clean contact form or hello@suesystems.com)
+•	Footer Elements:
+o	GitHub link ( showcasing active code & open source )
+o	LinkedIn profile
+o	Copyright © 2026 SueSystems
+
+
